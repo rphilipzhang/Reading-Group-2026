@@ -26,7 +26,7 @@ This reading group has two parallel tracks, each occupying one hour per session:
 
 **Applied Empirics** follows the structure of [Goldsmith-Pinkham's Applied Methods course](https://github.com/paulgp/applied-methods-phd) and [Sant'Anna's DID resources](https://psantanna.com/did-resources/), covering canonical identification strategies (DID, IV, RDD) and modern ML-based causal inference methods, with emphasis on assumptions, simulations, and hands-on replication.
 
-**AI for Research** draws on recent developments in agentic AI systems, AI coding assistants, and autonomous research pipelines, aiming to equip participants with practical skills to integrate modern AI tools into their own research workflows.
+**[AI for Research](https://velikov-mihail.github.io/ai-econ-wiki/)** draws on recent developments in agentic AI systems, AI coding assistants, and autonomous research pipelines, aiming to equip participants with practical skills to integrate modern AI tools into their own research workflows.
 
 ---
 
