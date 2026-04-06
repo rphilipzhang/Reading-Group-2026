@@ -76,13 +76,13 @@ Each presenter should:
 
 | Week | Topic |
 |------|-------|
-| 1 | AI Coding Agents for Research: Claude Code & Cursor |
-| 2 | Multi-Agent Workflows for Academic Research |
-| 3 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |
-| 4 | AI-Driven Replication Studies |
-| 5 | Autonomous Research Systems |
-| 6 | Knowledge Management with LLMs: Wiki vs. RAG |
-| 7 | AI for Data Collection & Unstructured Data |
+| 1 | AI Coding Agents & Multi-Agent Workflows for Research |
+| 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |
+| 3 | AI-Driven Replication Studies |
+| 4 | Autonomous Research Systems |
+| 5 | Knowledge Management with LLMs: Wiki vs. RAG |
+| 6 | AI for Data Collection & Unstructured Data |
+| 7 | LLM Social Simulations for Economic & Social Research |
 | 8 | AI for Academic Writing & Peer Review |
 | 9 | AI for Theoretical Model Building & Mathematical Proof |
 | 10 | Building Your AI-Augmented Research Workflow |
@@ -94,7 +94,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **Propensity Scores, Matching & Reweighting**: IPW, doubly robust estimation, overlap diagnostics | _TBD_ |
-| AI | **AI Coding Agents for Research: Claude Code & Cursor**: Setup, configuration, researcher workflows, hands-on demo | _TBD_ |
+| AI | **AI Coding Agents & Multi-Agent Workflows for Research**: Claude Code, Cursor, orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
 
 **Lecture Slides:**
 
@@ -115,8 +115,13 @@ Each presenter should:
 - Goldsmith-Pinkham, P. Getting Started with Claude Code: A Researcher's Setup Guide. [Substack](https://paulgp.substack.com/p/getting-started-with-claude-code)
 - Goldsmith-Pinkham, P. Claude Code for Applied Economists (7-episode video series, Markus Academy). [Substack](https://markusacademy.substack.com/p/claude-code-for-applied-economists) · [Princeton](https://bcf.princeton.edu/events/paul-goldsmith-pinkham-mini-series-on-claude-code-for-applied-economists/)
 - Sant'Anna, P. My Claude Code Setup (workflow guide for academics). [Website](https://psantanna.com/claude-code-my-workflow/workflow-guide.html)
+- Sant'Anna, P. claude-code-my-workflow: multi-agent template with orchestrator, adversarial critic-fixer, quality gates. [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)
 - Anthropic. Claude Code Official Documentation. [Docs](https://docs.anthropic.com/en/docs/claude-code) · [GitHub](https://github.com/anthropics/claude-code)
 - Cursor. Official Documentation. [Website](https://cursor.com/) · [Docs](https://cursordocs.com/en)
+- OpenAI. Agents SDK (March 2025): production-grade multi-agent toolkit with explicit handoffs. [GitHub](https://github.com/openai/openai-agents-python)
+- CrewAI. Role-based multi-agent framework. [Website](https://www.crewai.com/) · [GitHub](https://github.com/crewAIInc/crewAI)
+- LangGraph (LangChain). Graph-first agent orchestration with state machines. [Docs](https://langchain-ai.github.io/langgraph/)
+- Langfuse (2025). Comparing Open-Source AI Agent Frameworks (CrewAI, LangGraph, AutoGen). [Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
 - *Harness Engineering:*
   - Böckeler, B. (2026). Harness Engineering for Coding Agents. *Martin Fowler's Blog*. [Article](https://martinfowler.com/articles/harness-engineering.html)
   - Young, J. (Anthropic, 2025). Effective Harnesses for Long-Running Agents. *Anthropic Engineering Blog*. [Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
@@ -133,7 +138,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **Classic DID (2×2)**: Parallel trends, inference with clustering, covariate adjustment, functional form sensitivity | _TBD_ |
-| AI | **Multi-Agent Workflows for Academic Research**: Orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
+| AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation**: Natural language to production-ready statistical code, comparison of tools | _TBD_ |
 
 **Lecture Slides:**
 
@@ -152,11 +157,9 @@ Each presenter should:
 
 **AI References:**
 
-- Sant'Anna, P. claude-code-my-workflow: multi-agent template with orchestrator, adversarial critic-fixer, quality gates. [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)
-- OpenAI. Agents SDK (March 2025): production-grade multi-agent toolkit with explicit handoffs. [GitHub](https://github.com/openai/openai-agents-python)
-- CrewAI. Role-based multi-agent framework. [Website](https://www.crewai.com/) · [GitHub](https://github.com/crewAIInc/crewAI)
-- LangGraph (LangChain). Graph-first agent orchestration with state machines. [Docs](https://langchain-ai.github.io/langgraph/)
-- Langfuse (2025). Comparing Open-Source AI Agent Frameworks (CrewAI, LangGraph, AutoGen). [Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
+- StatsClaw. AI-powered statistical code generation (R, Python, C++, Julia, Stata). [Website](https://statsclaw.ai/)
+- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5--37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
+- Velikov, M. AI in Business & Economic Research Wiki (129 sources, 10 categories). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
 
 ---
 
@@ -165,7 +168,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **Modern DID: Staggered Adoption & TWFE Problems**: Bacon decomposition, negative weights, Callaway & Sant'Anna (2021), Sun & Abraham (2021), de Chaisemartin & D'Haultfoeuille (2020) | _TBD_ |
-| AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation**: Natural language to production-ready statistical code, comparison of tools | _TBD_ |
+| AI | **AI-Driven Replication Studies**: End-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
 
 **Lecture Slides:**
 
@@ -185,9 +188,11 @@ Each presenter should:
 
 **AI References:**
 
-- StatsClaw. AI-powered statistical code generation (R, Python, C++, Julia, Stata). [Website](https://statsclaw.ai/)
-- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5--37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
-- Velikov, M. AI in Business & Economic Research Wiki (129 sources, 10 categories). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
+- Hall, A. B. VBM Replication Extension: Claude Code replicated all 12 coefficients from Thompson et al. (2020), then extended through 2024. [GitHub](https://github.com/andybhall/vbm-replication-extension)
+- Xu, Y. & Yang, L. (2026). Scaling Reproducibility: An AI-Assisted Workflow for Large-Scale Replication and Reanalysis. [arXiv](https://arxiv.org/abs/2602.16733)
+- Straus, G. & Hall, A. B. How Accurately Did Claude Code Replicate and Extend a Published Political Science Paper? (independent audit). [PDF](https://www.andrewbenjaminhall.com/Straus_Hall_Claude_Audit.pdf)
+- Thompson, D. M. et al. (2020). Universal Vote-by-Mail Has No Impact on Partisan Turnout or Vote Share. *PNAS*, 117(25), 14052--14056. [DOI](https://doi.org/10.1073/pnas.2007249117)
+- Brodeur, A., Mikola, D. & Cook, N. (2024). Mass Reproducibility and Replicability: A New Hope. *IZA Discussion Paper* No. 16912. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780)
 
 ---
 
@@ -196,7 +201,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **Event Studies, Synthetic Control & Synthetic DID**: Dynamic treatment effects, pre-trend testing, SC estimation, SDID | _TBD_ |
-| AI | **AI-Driven Replication Studies**: End-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
+| AI | **Autonomous Research Systems**: Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
 
 **Lecture Slides:**
 
@@ -214,11 +219,11 @@ Each presenter should:
 
 **AI References:**
 
-- Hall, A. B. VBM Replication Extension: Claude Code replicated all 12 coefficients from Thompson et al. (2020), then extended through 2024. [GitHub](https://github.com/andybhall/vbm-replication-extension)
-- Xu, Y. & Yang, L. (2026). Scaling Reproducibility: An AI-Assisted Workflow for Large-Scale Replication and Reanalysis. [arXiv](https://arxiv.org/abs/2602.16733)
-- Straus, G. & Hall, A. B. How Accurately Did Claude Code Replicate and Extend a Published Political Science Paper? (independent audit). [PDF](https://www.andrewbenjaminhall.com/Straus_Hall_Claude_Audit.pdf)
-- Thompson, D. M. et al. (2020). Universal Vote-by-Mail Has No Impact on Partisan Turnout or Vote Share. *PNAS*, 117(25), 14052--14056. [DOI](https://doi.org/10.1073/pnas.2007249117)
-- Brodeur, A., Mikola, D. & Cook, N. (2024). Mass Reproducibility and Replicability: A New Hope. *IZA Discussion Paper* No. 16912. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780)
+- Project APE (Autonomous Policy Evaluation). AI-generated economics research at scale; 2,248 ideas, 943 papers, TrueSkill tournament. Social Catalyst Lab, U. Zurich. [Website](https://ape.socialcatalystlab.org/) · [Papers](https://github.com/SocialCatalystLab/ape-papers)
+- Karpathy, A. autoresearch: autonomous ML experimentation loop (modify → train → evaluate → iterate). [GitHub](https://github.com/karpathy/autoresearch)
+- Lu, C. et al. (Sakana AI, 2024). The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery. [Website](https://sakana.ai/ai-scientist/) · [GitHub](https://github.com/SakanaAI/AI-Scientist)
+- Sakana AI (2025). The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search. [arXiv](https://arxiv.org/abs/2504.08066)
+- Nature (2026). Towards End-to-End Automation of AI Research. [Article](https://www.nature.com/articles/s41586-026-10265-5)
 
 ---
 
@@ -227,7 +232,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **IV: Core Theory**: Exclusion restriction, relevance, monotonicity, LATE, 2SLS, weak instruments | _TBD_ |
-| AI | **Autonomous Research Systems**: Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
+| AI | **Knowledge Management with LLMs: Wiki vs. RAG**: Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
 
 **Lecture Slides:**
 
@@ -244,11 +249,10 @@ Each presenter should:
 
 **AI References:**
 
-- Project APE (Autonomous Policy Evaluation). AI-generated economics research at scale; 2,248 ideas, 943 papers, TrueSkill tournament. Social Catalyst Lab, U. Zurich. [Website](https://ape.socialcatalystlab.org/) · [Papers](https://github.com/SocialCatalystLab/ape-papers)
-- Karpathy, A. autoresearch: autonomous ML experimentation loop (modify → train → evaluate → iterate). [GitHub](https://github.com/karpathy/autoresearch)
-- Lu, C. et al. (Sakana AI, 2024). The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery. [Website](https://sakana.ai/ai-scientist/) · [GitHub](https://github.com/SakanaAI/AI-Scientist)
-- Sakana AI (2025). The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search. [arXiv](https://arxiv.org/abs/2504.08066)
-- Nature (2026). Towards End-to-End Automation of AI Research. [Article](https://www.nature.com/articles/s41586-026-10265-5)
+- Karpathy, A. LLM Wiki: LLM-maintained persistent knowledge bases (structured Markdown wikis from raw sources). [Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- Lewis, P. et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *NeurIPS 2020*. [arXiv](https://arxiv.org/abs/2005.11401)
+- Velikov, M. AI in Business & Economic Research Wiki (129 sources, structured knowledge base). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
+- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. [NBER](https://www.nber.org/papers/w33363)
 
 ---
 
@@ -257,7 +261,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **IV Extensions: Bartik, Shift-Share & Examiner Designs**: Simulated instruments, judge IV, practical diagnostics | _TBD_ |
-| AI | **Knowledge Management with LLMs: Wiki vs. RAG**: Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
+| AI | **AI for Data Collection & Unstructured Data**: Web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
 
 **Lecture Slides:**
 
@@ -275,10 +279,11 @@ Each presenter should:
 
 **AI References:**
 
-- Karpathy, A. LLM Wiki: LLM-maintained persistent knowledge bases (structured Markdown wikis from raw sources). [Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
-- Lewis, P. et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *NeurIPS 2020*. [arXiv](https://arxiv.org/abs/2005.11401)
-- Velikov, M. AI in Business & Economic Research Wiki (129 sources, structured knowledge base). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
-- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. [NBER](https://www.nber.org/papers/w33363)
+- Gentzkow, M., Kelly, B. & Taddy, M. (2019). Text as Data. *Journal of Economic Literature*, 57(3), 535--574. [DOI](https://doi.org/10.1257/jel.20181020) · [PDF](https://web.stanford.edu/~gentzkow/research/text-as-data.pdf)
+- Kelly, B. et al. (2021). Measuring Technological Innovation over the Long Run. *American Economic Review: Insights*, 3(3), 303--320. [DOI](https://doi.org/10.1257/aeri.20190499)
+- Goldsmith-Pinkham, P., Hirtle, B. & Lucca, D. (2016). Parsing the Content of Bank Supervision. *FRBNY Staff Report*. [PDF](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr770.pdf)
+- CEPR VoxEU. Leveraging Large Language Models for Large-Scale Information Retrieval in Economics. [Article](https://cepr.org/voxeu/columns/leveraging-large-language-models-large-scale-information-retrieval-economics)
+- Debelak, R. et al. (2025). From Embeddings to Explainability: A Tutorial on LLM-Based Text Analysis for Behavioral Scientists. *Advances in Methods and Practices in Psychological Science*. [DOI](https://doi.org/10.1177/25152459251351285)
 
 ---
 
@@ -287,7 +292,7 @@ Each presenter should:
 | Track | Topic | Presenter |
 |-------|-------|-----------|
 | Empirics | **RDD: Sharp, Fuzzy & Extensions**: Identification, bandwidth selection, manipulation testing, RD checklist | _TBD_ |
-| AI | **AI for Data Collection & Unstructured Data**: Web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
+| AI | **LLM Social Simulations for Economic & Social Research**: Homo Silicus, generative agents, agent-based social simulation, validation challenges | _TBD_ |
 
 **Lecture Slides:**
 
@@ -306,11 +311,19 @@ Each presenter should:
 
 **AI References:**
 
-- Gentzkow, M., Kelly, B. & Taddy, M. (2019). Text as Data. *Journal of Economic Literature*, 57(3), 535--574. [DOI](https://doi.org/10.1257/jel.20181020) · [PDF](https://web.stanford.edu/~gentzkow/research/text-as-data.pdf)
-- Kelly, B. et al. (2021). Measuring Technological Innovation over the Long Run. *American Economic Review: Insights*, 3(3), 303--320. [DOI](https://doi.org/10.1257/aeri.20190499)
-- Goldsmith-Pinkham, P., Hirtle, B. & Lucca, D. (2016). Parsing the Content of Bank Supervision. *FRBNY Staff Report*. [PDF](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr770.pdf)
-- CEPR VoxEU. Leveraging Large Language Models for Large-Scale Information Retrieval in Economics. [Article](https://cepr.org/voxeu/columns/leveraging-large-language-models-large-scale-information-retrieval-economics)
-- Debelak, R. et al. (2025). From Embeddings to Explainability: A Tutorial on LLM-Based Text Analysis for Behavioral Scientists. *Advances in Methods and Practices in Psychological Science*. [DOI](https://doi.org/10.1177/25152459251351285)
+- Manning, B. S. & Horton, J. J. (2025). General Social Agents. [arXiv](https://arxiv.org/abs/2508.17407)
+- Anthis, J. R., Liu, R., Richardson, S. M., Kozlowski, A. C., Koch, B., Evans, J., Brynjolfsson, E. & Bernstein, M. (2025). LLM Social Simulations Are a Promising Research Method. *ICML 2025*. [arXiv](https://arxiv.org/abs/2504.02234)
+- Brynjolfsson, E., Enriquez, J. R., Kazinnik, S. & Nguyen, D. T. (2026). Augmenting Survey Data with Generative AI: An Application to Economic Research. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6343598)
+- Horton, J. J., Filippas, A. & Manning, B. S. (2023). Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus? [arXiv](https://arxiv.org/abs/2301.07543)
+- Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P. & Bernstein, M. S. (2023). Generative Agents: Interactive Simulacra of Human Behavior. *UIST 2023*. [arXiv](https://arxiv.org/abs/2304.03442)
+- Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C. & Wingate, D. (2023). Out of One, Many: Using Language Models to Simulate Human Samples. *Political Analysis*. [DOI](https://doi.org/10.1017/pan.2023.2)
+- Mei, Q., Xie, Y., Yuan, W. & Jackson, M. O. (2024). A Turing Test of Whether AI Chatbots Are Behaviorally Similar to Humans. *PNAS*, 121(10). [DOI](https://doi.org/10.1073/pnas.2313925121)
+- Manning, B. S., Zhu, K. & Horton, J. J. (2024). Automated Social Science: Language Models as Scientist and Subjects. [arXiv](https://arxiv.org/abs/2404.11794)
+- Aher, G. V., Arriaga, R. I. & Kalai, A. T. (2023). Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies. *ICML 2023*. [arXiv](https://arxiv.org/abs/2208.10264)
+- Yang, Z. et al. (2024). OASIS: Open Agent Social Interaction Simulations with One Million Agents. [arXiv](https://arxiv.org/abs/2411.11581) · [GitHub](https://github.com/camel-ai/oasis)
+- Piao, J. et al. (2025). AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society. [arXiv](https://arxiv.org/abs/2502.08691) · [GitHub](https://github.com/tsinghua-fib-lab/AgentSociety)
+- Vezhnevets, A. S. et al. (Google DeepMind, 2023). Generative Agent-Based Modeling with Actions Grounded in Physical, Social, or Digital Space using Concordia. [arXiv](https://arxiv.org/abs/2312.03664) · [GitHub](https://github.com/google-deepmind/concordia)
+- Bail, C. A. (2024). Can Generative AI Improve Social Science? *PNAS*. [DOI](https://doi.org/10.1073/pnas.2314021121)
 
 ---
 
