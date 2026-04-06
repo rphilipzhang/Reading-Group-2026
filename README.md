@@ -1,7 +1,7 @@
 # Summer Reading Group 2026: Applied Empirics × AI for Research
 
 **Organizer:** [Philip Zhang](https://rphilipzhang.github.io/rphilipzhang/)  
-**Schedule (tentative):** Tuesdays, 9:30 am -- 11:30 am  
+**Schedule (tentative):** Tuesdays, 9:30 am - 11:30 am  
 **Duration:** 10 weeks  
 **Participants:** PhD students, post-doctoral fellows, research assistants  
 **Lunch:** Group lunch after each session (covered by Philip)
@@ -14,13 +14,13 @@ This reading group has two parallel tracks, each occupying one hour per session:
 
 | Time | Track | Focus |
 |------|-------|-------|
-| 9:30 -- 10:30 | **Applied Empirics** | Core causal inference and econometric methods applied in business/economics research |
-| 10:30 -- 11:30 | **AI for Research** | Practical AI techniques that power modern research workflows |
+| 9:30 - 10:30 | **Applied Empirics** | Core causal inference and econometric methods applied in business/economics research |
+| 10:30 - 11:30 | **AI for Research** | Practical AI techniques that power modern research workflows |
 
 ### Prerequisites & Assumptions
 
-- **Applied Empirics:** Participants are expected to have a solid foundation in econometrics and causal inference (e.g., OLS, potential outcomes, basic DID, IV, RDD concepts). The reading group focuses on **applying** these methods in empirical research settings -- navigating practical challenges such as assumption validation, robustness checks, and replication -- rather than re-teaching the underlying theory.
-- **AI for Research:** Participants are assumed to be familiar with the basics of AI and LLMs (e.g., what a large language model is, how to use ChatGPT-style interfaces for simple tasks). The reading group focuses on **modern agentic AI** -- multi-agent workflows, autonomous research systems, AI coding agents, and integration of AI into end-to-end research pipelines -- which goes well beyond basic LLM usage.
+- **Applied Empirics:** Participants are expected to have a solid foundation in econometrics and causal inference (e.g., OLS, potential outcomes, basic DID, IV, RDD concepts). The reading group focuses on **applying** these methods in empirical research settings, navigating practical challenges such as assumption validation, robustness checks, and replication, rather than re-teaching the underlying theory.
+- **AI for Research:** Participants are assumed to be familiar with the basics of AI and LLMs (e.g., what a large language model is, how to use ChatGPT-style interfaces for simple tasks). The reading group focuses on **modern agentic AI**, multi-agent workflows, autonomous research systems, AI coding agents, and integration of AI into end-to-end research pipelines, which goes well beyond basic LLM usage.
 
 ### Track Descriptions
 
@@ -36,17 +36,17 @@ This reading group has two parallel tracks, each occupying one hour per session:
 
 Each presenter should:
 
-1. **Introduce the method** (~15 min) -- explain the core identification strategy (e.g., IV, DID), key assumptions, and intuition.
-2. **Simulation exercise** (~20 min) -- run simulations (constructed with AI assistance is encouraged) to demonstrate why certain assumptions are critical and which violations are more or less consequential.
-3. **Paper replication** (~25 min) -- **each speaker should select an empirical paper of his/her own choice** that uses this identification strategy; discuss how the key assumptions apply (or fail) in that setting; demonstrate a stepwise replication of the main results (use the paper's open-source data if available; otherwise simulate data based on the paper's setting, using AI).
+1. **Introduce the method** (~15 min): Explain the core identification strategy (e.g., IV, DID), key assumptions, and intuition.
+2. **Simulation exercise** (~20 min) Run simulations (constructed with AI assistance is encouraged) to demonstrate why certain assumptions are critical and which violations are more or less consequential.
+3. **Paper replication** (~25 min): **Each speaker should select an empirical paper of his/her own choice** that uses this identification strategy; discuss how the key assumptions apply (or fail) in that setting; demonstrate a stepwise replication of the main results (use the paper's open-source data if available; otherwise simulate data based on the paper's setting, using AI).
 
 ### Track 2: AI for Research (1 hour)
 
 Each presenter should:
 
-1. **Technical background** (~20 min) -- provide the necessary theoretical and technical context for the week's technique (e.g., how multi-agent systems work, how RAG differs from wiki-based knowledge management).
-2. **Implementation demo** (~20 min) -- present the presenter's own implementation of the method.
-3. **Applications & reflection** (~20 min) -- demonstrate applications, discuss limitations, and share thoughts on how to use this method in the presenter's own research.
+1. **Technical background** (~20 min): Provide the necessary theoretical and technical context for the week's technique (e.g., how multi-agent systems work, how RAG differs from wiki-based knowledge management).
+2. **Implementation demo** (~20 min): Present the presenter's own implementation of the method.
+3. **Applications & reflection** (~20 min): Demonstrate applications, discuss limitations, and share thoughts on how to use this method in the presenter's own research.
 
 ### Logistics
 
@@ -63,8 +63,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Propensity Scores, Matching & Reweighting** -- IPW, doubly robust estimation, overlap diagnostics | _TBD_ |
-| AI | **AI Coding Agents for Research: Claude Code & Cursor** -- setup, configuration, researcher workflows, hands-on demo | _TBD_ |
+| Empirics | **Propensity Scores, Matching & Reweighting**: IPW, doubly robust estimation, overlap diagnostics | _TBD_ |
+| AI | **AI Coding Agents for Research: Claude Code & Cursor**: Setup, configuration, researcher workflows, hands-on demo | _TBD_ |
 
 **Empirics References:**
 
@@ -98,8 +98,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Classic DID (2×2)** -- parallel trends, inference with clustering, covariate adjustment, functional form sensitivity | _TBD_ |
-| AI | **Multi-Agent Workflows for Academic Research** -- orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
+| Empirics | **Classic DID (2×2)**: Parallel trends, inference with clustering, covariate adjustment, functional form sensitivity | _TBD_ |
+| AI | **Multi-Agent Workflows for Academic Research**: Orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
 
 **Empirics References:**
 
@@ -125,8 +125,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Modern DID: Staggered Adoption & TWFE Problems** -- Bacon decomposition, negative weights, Callaway & Sant'Anna (2021), Sun & Abraham (2021), de Chaisemartin & D'Haultfoeuille (2020) | _TBD_ |
-| AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation** -- natural language to production-ready statistical code, comparison of tools | _TBD_ |
+| Empirics | **Modern DID: Staggered Adoption & TWFE Problems**: Bacon decomposition, negative weights, Callaway & Sant'Anna (2021), Sun & Abraham (2021), de Chaisemartin & D'Haultfoeuille (2020) | _TBD_ |
+| AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation**: Natural language to production-ready statistical code, comparison of tools | _TBD_ |
 
 **Empirics References:**
 
@@ -151,8 +151,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Event Studies, Synthetic Control & Synthetic DID** -- dynamic treatment effects, pre-trend testing, SC estimation, SDID | _TBD_ |
-| AI | **AI-Driven Replication Studies** -- end-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
+| Empirics | **Event Studies, Synthetic Control & Synthetic DID**: Dynamic treatment effects, pre-trend testing, SC estimation, SDID | _TBD_ |
+| AI | **AI-Driven Replication Studies**: End-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
 
 **Empirics References:**
 
@@ -177,8 +177,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **IV: Core Theory** -- exclusion restriction, relevance, monotonicity, LATE, 2SLS, weak instruments | _TBD_ |
-| AI | **Autonomous Research Systems** -- Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
+| Empirics | **IV: Core Theory**: Exclusion restriction, relevance, monotonicity, LATE, 2SLS, weak instruments | _TBD_ |
+| AI | **Autonomous Research Systems**: Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
 
 **Empirics References:**
 
@@ -203,8 +203,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **IV Extensions: Bartik, Shift-Share & Examiner Designs** -- simulated instruments, judge IV, practical diagnostics | _TBD_ |
-| AI | **Knowledge Management with LLMs: Wiki vs. RAG** -- Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
+| Empirics | **IV Extensions: Bartik, Shift-Share & Examiner Designs**: Simulated instruments, judge IV, practical diagnostics | _TBD_ |
+| AI | **Knowledge Management with LLMs: Wiki vs. RAG**: Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
 
 **Empirics References:**
 
@@ -229,8 +229,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **RDD: Sharp, Fuzzy & Extensions** -- identification, bandwidth selection, manipulation testing, RD checklist | _TBD_ |
-| AI | **AI for Data Collection & Unstructured Data** -- web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
+| Empirics | **RDD: Sharp, Fuzzy & Extensions**: Identification, bandwidth selection, manipulation testing, RD checklist | _TBD_ |
+| AI | **AI for Data Collection & Unstructured Data**: Web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
 
 **Empirics References:**
 
@@ -257,8 +257,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Double/Debiased Machine Learning** -- Neyman orthogonality, cross-fitting, partially linear models, DML for ATE/CATE, IV and panel settings | _TBD_ |
-| AI | **AI for Academic Writing & Peer Review** -- drafting, proofreading agents, LLM-assisted review, ethics and disclosure | _TBD_ |
+| Empirics | **Double/Debiased Machine Learning**: Neyman orthogonality, cross-fitting, partially linear models, DML for ATE/CATE, IV and panel settings | _TBD_ |
+| AI | **AI for Academic Writing & Peer Review**: Drafting, proofreading agents, LLM-assisted review, ethics and disclosure | _TBD_ |
 
 **Empirics References:**
 
@@ -283,8 +283,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **ML × Causal Inference** -- causal forests, heterogeneous treatment effects (CATE), prediction vs. inference, policy learning | _TBD_ |
-| AI | **AI for Theoretical Model Building & Mathematical Proof** -- LLM-assisted formalization, theorem proving, model derivation, economic theory with AI | _TBD_ |
+| Empirics | **ML × Causal Inference**: Causal forests, heterogeneous treatment effects (CATE), prediction vs. inference, policy learning | _TBD_ |
+| AI | **AI for Theoretical Model Building & Mathematical Proof**: LLM-assisted formalization, theorem proving, model derivation, economic theory with AI | _TBD_ |
 
 **Empirics References:**
 
@@ -311,8 +311,8 @@ Each presenter should:
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
-| Empirics | **Partial Identification & Sensitivity Analysis** -- bounds under weaker assumptions, sensitivity of causal estimates, Rambachan & Roth (2023) | _TBD_ |
-| AI | **Building Your AI-Augmented Research Workflow** -- integrating tools into a personal research pipeline, lessons learned, group discussion on adoption | _TBD_ |
+| Empirics | **Partial Identification & Sensitivity Analysis**: Bounds under weaker assumptions, sensitivity of causal estimates, Rambachan & Roth (2023) | _TBD_ |
+| AI | **Building Your AI-Augmented Research Workflow**: Integrating tools into a personal research pipeline, lessons learned, group discussion on adoption | _TBD_ |
 
 **Empirics References:**
 
