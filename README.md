@@ -96,6 +96,10 @@ Each presenter should:
 | Empirics | **Propensity Scores, Matching & Reweighting**: IPW, doubly robust estimation, overlap diagnostics | _TBD_ |
 | AI | **AI Coding Agents for Research: Claude Code & Cursor**: Setup, configuration, researcher workflows, hands-on demo | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Propensity Scores. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)
+
 **Empirics References:**
 
 - ⭐ Imbens, G. W. & Xu, Y. (2024). LaLonde (1986) after Nearly Four Decades: Lessons Learned. [NBER Working Paper](https://www.nber.org/papers/w32029)
@@ -131,6 +135,11 @@ Each presenter should:
 | Empirics | **Classic DID (2×2)**: Parallel trends, inference with clustering, covariate adjustment, functional form sensitivity | _TBD_ |
 | AI | **Multi-Agent Workflows for Academic Research**: Orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Difference-in-Differences. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf) · DiD Foundations. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf)
+- Sant'Anna, P. Classical 2×2 DiD Setup. [Slides](https://psantanna.com/DiD/02_two_by_two.pdf) · Clustering. [Slides](https://psantanna.com/DiD/03_Clustering.pdf) · Parallel Trends and Functional Form. [Slides](https://psantanna.com/DiD/04_Functional_form.pdf) · Covariates. [Slides](https://psantanna.com/DiD/05_Covariates.pdf)
+
 **Empirics References:**
 
 - ⭐ Bertrand, M., Duflo, E. & Mullainathan, S. (2004). How Much Should We Trust Difference-In-Differences Estimates? *Quarterly Journal of Economics*, 119(1), 249--275. [DOI](https://doi.org/10.1162/003355304772839588)
@@ -158,6 +167,11 @@ Each presenter should:
 | Empirics | **Modern DID: Staggered Adoption & TWFE Problems**: Bacon decomposition, negative weights, Callaway & Sant'Anna (2021), Sun & Abraham (2021), de Chaisemartin & D'Haultfoeuille (2020) | _TBD_ |
 | AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation**: Natural language to production-ready statistical code, comparison of tools | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. DiD Staggered. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf) · DiD Extensions. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf)
+- Sant'Anna, P. TWFE with Multiple Periods. [Slides](https://psantanna.com/DiD/09_Twfe.pdf) · Staggered Treatment Adoption Problems. [Slides](https://psantanna.com/DiD/11_Staggered_problems.pdf) · Reliable Estimators with Staggered Adoption. [Slides](https://psantanna.com/DiD/12_CS.pdf) · Treatments Turning On-and-Off. [Slides](https://psantanna.com/DiD/13_On_off.pdf)
+
 **Empirics References:**
 
 - ⭐ Callaway, B. & Sant'Anna, P. (2021). Difference-in-Differences with Multiple Time Periods. *Journal of Econometrics*, 225(2), 200--230. [DOI](https://doi.org/10.1016/j.jeconom.2020.12.001)
@@ -183,6 +197,11 @@ Each presenter should:
 |-------|-------|-----------|
 | Empirics | **Event Studies, Synthetic Control & Synthetic DID**: Dynamic treatment effects, pre-trend testing, SC estimation, SDID | _TBD_ |
 | AI | **AI-Driven Replication Studies**: End-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
+
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Synthetic DiD. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf)
+- Sant'Anna, P. Event Studies. [Slides](https://psantanna.com/DiD/08_ES.pdf) · Pre-tests. [Slides](https://psantanna.com/DiD/10_Pretest.pdf)
 
 **Empirics References:**
 
@@ -210,6 +229,10 @@ Each presenter should:
 | Empirics | **IV: Core Theory**: Exclusion restriction, relevance, monotonicity, LATE, 2SLS, weak instruments | _TBD_ |
 | AI | **Autonomous Research Systems**: Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. IV Part I. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf) · IV Part II. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)
+
 **Empirics References:**
 
 - ⭐ Angrist, J. D., Imbens, G. W. & Rubin, D. B. (1996). Identification of Causal Effects Using Instrumental Variables. *Journal of the American Statistical Association*, 91(434), 444--455. [DOI](https://doi.org/10.1080/01621459.1996.10476902)
@@ -236,6 +259,10 @@ Each presenter should:
 | Empirics | **IV Extensions: Bartik, Shift-Share & Examiner Designs**: Simulated instruments, judge IV, practical diagnostics | _TBD_ |
 | AI | **Knowledge Management with LLMs: Wiki vs. RAG**: Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. IV Part III. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf) · Bartik / Shift-Share IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf) · Judge IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)
+
 **Empirics References:**
 
 - ⭐ Borusyak, K., Hull, P. & Jaravel, X. (2025). A Practical Guide to Shift-Share Instruments. *Journal of Economic Perspectives*. [Working Paper](https://arxiv.org/abs/2412.08826)
@@ -261,6 +288,10 @@ Each presenter should:
 |-------|-------|-----------|
 | Empirics | **RDD: Sharp, Fuzzy & Extensions**: Identification, bandwidth selection, manipulation testing, RD checklist | _TBD_ |
 | AI | **AI for Data Collection & Unstructured Data**: Web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
+
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Regression Discontinuity Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf) · Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)
 
 **Empirics References:**
 
@@ -290,6 +321,11 @@ Each presenter should:
 | Empirics | **Double/Debiased Machine Learning**: Neyman orthogonality, cross-fitting, partially linear models, DML for ATE/CATE, IV and panel settings | _TBD_ |
 | AI | **AI for Academic Writing & Peer Review**: Drafting, proofreading agents, LLM-assisted review, ethics and disclosure | _TBD_ |
 
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Machine Learning Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf)
+- Sant'Anna, P. Leveraging Advances in Machine Learning. [Slides](https://psantanna.com/DiD/06_DML.pdf)
+
 **Empirics References:**
 
 - ⭐ Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W. & Robins, J. (2018). Double/Debiased Machine Learning for Treatment and Structural Parameters. *Econometrics Journal*, 21(1), C1--C68. [DOI](https://doi.org/10.1111/ectj.12097)
@@ -315,6 +351,10 @@ Each presenter should:
 |-------|-------|-----------|
 | Empirics | **ML × Causal Inference**: Causal forests, heterogeneous treatment effects (CATE), prediction vs. inference, policy learning | _TBD_ |
 | AI | **AI for Theoretical Model Building & Mathematical Proof**: LLM-assisted formalization, theorem proving, model derivation, economic theory with AI | _TBD_ |
+
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/25_machine_learning_3.pdf)
 
 **Empirics References:**
 
@@ -347,6 +387,10 @@ Each presenter should:
 |-------|-------|-----------|
 | Empirics | **Partial Identification & Sensitivity Analysis**: Bounds under weaker assumptions, sensitivity of causal estimates, Rambachan & Roth (2023) | _TBD_ |
 | AI | **Building Your AI-Augmented Research Workflow**: Integrating tools into a personal research pipeline, lessons learned, group discussion on adoption | _TBD_ |
+
+**Lecture Slides:**
+
+- Goldsmith-Pinkham, P. Partial Identification. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/26_partial_identification.pdf)
 
 **Empirics References:**
 
