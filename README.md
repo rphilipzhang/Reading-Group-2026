@@ -328,12 +328,16 @@ Each presenter should:
 
 **AI References:**
 
-- ⭐ Trinh, T. H. et al. (Google DeepMind, 2024). Solving Olympiad Geometry without Human Demonstrations. *Nature*, 625, 476--482. [DOI](https://doi.org/10.1038/s41586-023-06747-5)
-- ⭐ DeepMind (2025). AlphaProof and AlphaGeometry 2: AI Achieves Silver-Medal Level at IMO 2024. [Blog](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
-- Romera-Paredes, B. et al. (Google DeepMind, 2024). Mathematical Discoveries from Program Search with Large Language Models. *Nature*, 625, 468--475. [DOI](https://doi.org/10.1038/s41586-023-06924-6)
-- Yang, K. et al. (2024). LeanDojo: Theorem Proving with Retrieval-Augmented Language Models. *NeurIPS 2023*. [arXiv](https://arxiv.org/abs/2306.15626) · [GitHub](https://github.com/lean-dojo/LeanDojo)
-- Xin, H. et al. (2025). DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition. [arXiv](https://arxiv.org/abs/2504.21801)
+- ⭐ Korinek, A. (2023). Language Models and Cognitive Automation for Economic Research. *NBER Working Paper* No. 30957. [NBER](https://www.nber.org/papers/w30957) — Systematic guide for economists on using LLMs for mathematical derivations, solving models, checking proofs, and deriving comparative statics; includes worked examples.
+- ⭐ Korinek, A. (2023). Generative AI for Economic Research: Use Cases and Implications for Economists. *Journal of Economic Literature*. [AEA](https://www.aeaweb.org/articles?id=10.1257/jel.20231736) — Published version covering LLM capabilities for game-theoretic models, mechanism design, and an honest assessment of failure modes in longer proofs.
 - Manning, A. & Mendelson, J. (2025). Can AI Build Economic Models? A Comparative Study. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183832)
+- Mannix, C. & Zhong, S. (2024). Can LLMs Solve Economic Models? A Systematic Evaluation — benchmarks on Nash equilibria, contract theory, principal-agent problems, optimal mechanism design. [arXiv](https://arxiv.org/abs/2407.00779)
+- Duetting, P., Feng, Z., Narasimhan, H., Parkes, D. C. & Ravindranath, S. S. (2024). Mechanism Design for Large Language Models. [arXiv](https://arxiv.org/abs/2310.10826)
+- Wolfram, S. (2023). ChatGPT Gets Its "Wolfram Superpowers" — LLM + computer algebra system workflow for solving FOCs, deriving comparative statics, verifying equilibrium conditions. [Blog](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+- *Background on AI for mathematical reasoning (optional):*
+  - Romera-Paredes, B. et al. (Google DeepMind, 2024). Mathematical Discoveries from Program Search with Large Language Models. *Nature*, 625, 468--475. [DOI](https://doi.org/10.1038/s41586-023-06924-6)
+  - Yang, K. et al. (2024). LeanDojo: Theorem Proving with Retrieval-Augmented Language Models. *NeurIPS 2023*. [arXiv](https://arxiv.org/abs/2306.15626) · [GitHub](https://github.com/lean-dojo/LeanDojo)
+
 
 ---
 
