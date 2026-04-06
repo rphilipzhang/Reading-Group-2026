@@ -57,9 +57,39 @@ Each presenter should:
 
 ## Weekly Schedule
 
+### Applied Empirics
+
+| Week | Topic |
+|------|-------|
+| 1 | Propensity Scores, Matching & Reweighting |
+| 2 | Classic DID (2×2) |
+| 3 | Modern DID: Staggered Adoption & TWFE Problems |
+| 4 | Event Studies, Synthetic Control & Synthetic DID |
+| 5 | IV: Core Theory |
+| 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |
+| 7 | RDD: Sharp, Fuzzy & Extensions |
+| 8 | Double/Debiased Machine Learning |
+| 9 | ML × Causal Inference |
+| 10 | Partial Identification & Sensitivity Analysis |
+
+### AI for Research
+
+| Week | Topic |
+|------|-------|
+| 1 | AI Coding Agents for Research: Claude Code & Cursor |
+| 2 | Multi-Agent Workflows for Academic Research |
+| 3 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |
+| 4 | AI-Driven Replication Studies |
+| 5 | Autonomous Research Systems |
+| 6 | Knowledge Management with LLMs: Wiki vs. RAG |
+| 7 | AI for Data Collection & Unstructured Data |
+| 8 | AI for Academic Writing & Peer Review |
+| 9 | AI for Theoretical Model Building & Mathematical Proof |
+| 10 | Building Your AI-Augmented Research Workflow |
+
 ---
 
-### Week 1: Selection on Observables
+### Week 1
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -94,7 +124,7 @@ Each presenter should:
 
 ---
 
-### Week 2: Difference-in-Differences I
+### Week 2
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -121,7 +151,7 @@ Each presenter should:
 
 ---
 
-### Week 3: Difference-in-Differences II
+### Week 3
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -147,7 +177,7 @@ Each presenter should:
 
 ---
 
-### Week 4: Event Studies & Synthetic Control
+### Week 4
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -173,7 +203,7 @@ Each presenter should:
 
 ---
 
-### Week 5: Instrumental Variables I
+### Week 5
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -199,7 +229,7 @@ Each presenter should:
 
 ---
 
-### Week 6: Instrumental Variables II
+### Week 6
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -225,7 +255,7 @@ Each presenter should:
 
 ---
 
-### Week 7: Regression Discontinuity
+### Week 7
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -253,7 +283,7 @@ Each presenter should:
 
 ---
 
-### Week 8: Double Machine Learning
+### Week 8
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -279,7 +309,7 @@ Each presenter should:
 
 ---
 
-### Week 9: ML for Causal Inference
+### Week 9
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -307,7 +337,7 @@ Each presenter should:
 
 ---
 
-### Week 10: Frontiers
+### Week 10
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
