@@ -352,9 +352,7 @@ Please sign up for **one empirics session** and **one AI session** (or more if n
 
 ---
 
-## General Textbooks & Course-Level References
-
-### Econometrics & Causal Inference
+## General References
 
 - Angrist, J. D. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*. Princeton University Press.
 - Cunningham, S. (2021). *Causal Inference: The Mixtape*. Yale University Press. [Free online](https://mixtape.scunning.com/)
@@ -363,8 +361,6 @@ Please sign up for **one empirics session** and **one AI session** (or more if n
 - Chernozhukov, V. et al. (2024). *Applied Causal Inference Powered by ML and AI*. [Free online](https://causalml-book.org/)
 - Aronow, P. M. & Miller, B. T. (2019). *Foundations of Agnostic Statistics*. Cambridge University Press.
 - Healy, K. (2018). *Data Visualization: A Practical Introduction*. Princeton University Press. [Free online](https://socviz.co/)
-
-### Course Materials
 
 - Goldsmith-Pinkham, P. Applied Empirical Methods (full course with slides and code). [GitHub](https://github.com/paulgp/applied-methods-phd)
 - Sant'Anna, P. DID Resources (14-lecture course, checklist, software). [Website](https://psantanna.com/did-resources/)
