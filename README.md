@@ -6,6 +6,7 @@
 **Participants:** PhD students, post-doctoral fellows, research assistants  
 **Lunch:** Group lunch after each session (covered by Philip)
 **Sign-up Sheet:** [Sign up here](https://github.com/rphilipzhang/Reading-Group-2026).
+
 **[Zoom Link](https://cuhk.zoom.us/j/91010132061?pwd=NnAJPWU6ckdFpeEPb28TZEaGGEjfVY.1), Zoom ID: 910 1013 2061, Passcode: 073575**
 
 ---
