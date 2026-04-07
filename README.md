@@ -80,7 +80,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 |------|-------|--------------|
 | 1 | AI Coding Agents & Multi-Agent Workflows for Research |[Substack](https://paulgp.substack.com/p/getting-started-with-claude-code), [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
 | 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |[GitHub](https://github.com/statsclaw)|
-| 3 | AI-Driven Replication Studies ||
+| 3 | AI-Driven Replication Studies |[GitHub](https://github.com/andybhall/vbm-replication-extension), [arXiv](https://arxiv.org/abs/2602.16733)|
 | 4 | Autonomous Research Systems ||
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG ||
 | 6 | AI for Data Collection & Unstructured Data ||
