@@ -69,7 +69,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 4 | Event Studies, Synthetic Control & Synthetic DID |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf), [Slides 2](https://psantanna.com/DiD/08_ES.pdf), [Slides 3](https://psantanna.com/DiD/10_Pretest.pdf)|
 | 5 | IV: Core Theory |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)|
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)|
-| 7 | RDD: Sharp, Fuzzy & Extensions ||
+| 7 | RDD: Sharp, Fuzzy & Extensions |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf), [Slides 3](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)|
 | 8 | Double/Debiased Machine Learning ||
 | 9 | ML × Causal Inference ||
 | 10 | Partial Identification & Sensitivity Analysis ||
@@ -84,7 +84,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 4 | Autonomous Research Systems |[GitHub 1](https://github.com/karpathy/autoresearch), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG |[Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), [Project APE](https://ape.socialcatalystlab.org/)|
 | 6 | AI for Data Collection & Unstructured Data |[GitHub 1](https://github.com/velikov-mihail/AI-Powered-Scholarship), [Project APE](https://ape.socialcatalystlab.org/), [GitHub](https://github.com/andybhall/vbm-replication-extension)|
-| 7 | LLM Social Simulations for Economic & Social Research ||
+| 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety)|
 | 8 | AI for Academic Writing & Peer Review ||
 | 9 | AI for Theoretical Model Building & Mathematical Proof ||
 | 10 | Building Your AI-Augmented Research Workflow ||
@@ -299,12 +299,12 @@ In either case, if you have difficulty selecting what to present in the reading 
 | Empirics | **RDD: Sharp, Fuzzy & Extensions**: Identification, bandwidth selection, manipulation testing, RD checklist | _TBD_ |
 | AI | **LLM Social Simulations for Economic & Social Research**: Homo Silicus, generative agents, agent-based social simulation, validation challenges | _TBD_ |
 
-**Lecture Slides:**
 
-- Goldsmith-Pinkham, P. Regression Discontinuity Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf) · Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)
+
 
 **Empirics References:**
 
+- Goldsmith-Pinkham, P. Regression Discontinuity Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf) · Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)
 - Cattaneo, M. D., Idrobo, N. & Titiunik, R. (2020). *A Practical Introduction to Regression Discontinuity Designs: Foundations*. Cambridge Elements. [Website](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf)
 - Cattaneo, M. D., Idrobo, N. & Titiunik, R. (2024). *A Practical Introduction to Regression Discontinuity Designs: Extensions*. Cambridge Elements. [Website](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2024_CUP.pdf)
 - Hahn, J., Todd, P. & Van der Klaauw, W. (2001). Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design. *Econometrica*, 69(1), 201--209. [DOI](https://doi.org/10.1111/1468-0262.00183)
