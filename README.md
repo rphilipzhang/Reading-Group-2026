@@ -67,8 +67,8 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 4](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 5](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 6](https://psantanna.com/DiD/05_Covariates.pdf)|
 | 3 | Modern DID: Staggered Adoption & TWFE Problems |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf), [Slides 3](https://psantanna.com/DiD/09_Twfe.pdf), [Slides 4](https://psantanna.com/DiD/11_Staggered_problems.pdf), [Slides 5](https://psantanna.com/DiD/12_CS.pdf), [Slides 6](https://psantanna.com/DiD/13_On_off.pdf)|
 | 4 | Event Studies, Synthetic Control & Synthetic DID |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf), [Slides 2](https://psantanna.com/DiD/08_ES.pdf), [Slides 3](https://psantanna.com/DiD/10_Pretest.pdf)|
-| 5 | IV: Core Theory ||
-| 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs ||
+| 5 | IV: Core Theory |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)|
+| 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)|
 | 7 | RDD: Sharp, Fuzzy & Extensions ||
 | 8 | Double/Debiased Machine Learning ||
 | 9 | ML × Causal Inference ||
@@ -82,8 +82,8 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |[GitHub](https://github.com/statsclaw)|
 | 3 | AI-Driven Replication Studies |[GitHub](https://github.com/andybhall/vbm-replication-extension), [arXiv](https://arxiv.org/abs/2602.16733)|
 | 4 | Autonomous Research Systems |[GitHub 1](https://github.com/karpathy/autoresearch), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
-| 5 | Knowledge Management with LLMs: Wiki vs. RAG ||
-| 6 | AI for Data Collection & Unstructured Data ||
+| 5 | Knowledge Management with LLMs: Wiki vs. RAG |[Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), [Project APE](https://ape.socialcatalystlab.org/)|
+| 6 | AI for Data Collection & Unstructured Data |[GitHub 1](https://github.com/velikov-mihail/AI-Powered-Scholarship), [Project APE](https://ape.socialcatalystlab.org/), [GitHub](https://github.com/andybhall/vbm-replication-extension)|
 | 7 | LLM Social Simulations for Economic & Social Research ||
 | 8 | AI for Academic Writing & Peer Review ||
 | 9 | AI for Theoretical Model Building & Mathematical Proof ||
@@ -163,7 +163,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 **AI References:**
 
 - StatsClaw. AI-powered statistical code generation (R, Python, C++, Julia, Stata). [Website](https://statsclaw.ai/)
-- Novy-Marx, R. & Velikov, M. (2025). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5--37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
+- Novy-Marx, R. & Velikov, M. (2025). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5-37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
 - Velikov, M. AI in Business & Economic Research Wiki (129 sources, 10 categories). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
 
 ---
@@ -182,7 +182,6 @@ In either case, if you have difficulty selecting what to present in the reading 
 
 - Goldsmith-Pinkham, P. DiD Staggered. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf) · DiD Extensions. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf)
 - Sant'Anna, P. TWFE with Multiple Periods. [Slides](https://psantanna.com/DiD/09_Twfe.pdf) · Staggered Treatment Adoption Problems. [Slides](https://psantanna.com/DiD/11_Staggered_problems.pdf) · Reliable Estimators with Staggered Adoption. [Slides](https://psantanna.com/DiD/12_CS.pdf) · Treatments Turning On-and-Off. [Slides](https://psantanna.com/DiD/13_On_off.pdf)
-
 
 - Callaway, B. & Sant'Anna, P. (2021). Difference-in-Differences with Multiple Time Periods. *Journal of Econometrics*, 225(2), 200--230. [DOI](https://doi.org/10.1016/j.jeconom.2020.12.001)
 - Roth, J., Sant'Anna, P., Bilinski, A. & Poe, J. (2023). What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature. *Journal of Econometrics*, 235(2), 2218--2244. [DOI](https://doi.org/10.1016/j.jeconom.2023.03.008)
@@ -242,12 +241,12 @@ In either case, if you have difficulty selecting what to present in the reading 
 | Empirics | **IV: Core Theory**: Exclusion restriction, relevance, monotonicity, LATE, 2SLS, weak instruments | _TBD_ |
 | AI | **Knowledge Management with LLMs: Wiki vs. RAG**: Karpathy's LLM wiki pattern, persistent knowledge bases, applications to literature reviews | _TBD_ |
 
-**Lecture Slides:**
 
-- Goldsmith-Pinkham, P. IV Part I. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf) · IV Part II. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)
+
 
 **Empirics References:**
 
+- Goldsmith-Pinkham, P. IV Part I. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf) · IV Part II. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)
 - Angrist, J. D., Imbens, G. W. & Rubin, D. B. (1996). Identification of Causal Effects Using Instrumental Variables. *Journal of the American Statistical Association*, 91(434), 444--455. [DOI](https://doi.org/10.1080/01621459.1996.10476902)
 - Andrews, I., Stock, J. H. & Sun, L. (2019). Weak Instruments in Instrumental Variables Regression: Theory and Practice. *Annual Review of Economics*, 11, 727--753. [DOI](https://doi.org/10.1146/annurev-economics-080218-025643)
 - Imbens, G. W. & Angrist, J. D. (1994). Identification and Estimation of Local Average Treatment Effects. *Econometrica*, 62(2), 467--475. [DOI](https://doi.org/10.2307/2951620)
@@ -260,8 +259,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 - Karpathy, A. LLM Wiki: LLM-maintained persistent knowledge bases (structured Markdown wikis from raw sources). [Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - Lewis, P. et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *NeurIPS 2020*. [arXiv](https://arxiv.org/abs/2005.11401)
 - Velikov, M. AI in Business & Economic Research Wiki (129 sources, structured knowledge base). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
-- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. [NBER](https://www.nber.org/papers/w33363)
-
+- Novy-Marx, R. & Velikov, M. (2025). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5-37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
 ---
 
 ### Week 6
@@ -271,12 +269,11 @@ In either case, if you have difficulty selecting what to present in the reading 
 | Empirics | **IV Extensions: Bartik, Shift-Share & Examiner Designs**: Simulated instruments, judge IV, practical diagnostics | _TBD_ |
 | AI | **AI for Data Collection & Unstructured Data**: Web scraping, NLP pipelines, text-as-data, embeddings for research | _TBD_ |
 
-**Lecture Slides:**
 
-- Goldsmith-Pinkham, P. IV Part III. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf) · Bartik / Shift-Share IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf) · Judge IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)
 
 **Empirics References:**
 
+- Goldsmith-Pinkham, P. IV Part III. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf) · Bartik / Shift-Share IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf) · Judge IV. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)
 - Borusyak, K., Hull, P. & Jaravel, X. (2025). A Practical Guide to Shift-Share Instruments. *Journal of Economic Perspectives*. [Working Paper](https://arxiv.org/abs/2412.08826)
 - Goldsmith-Pinkham, P., Hull, P. & Kolesar, M. (2025). Leniency Designs: An Operator's Manual. [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051253)
 - Goldsmith-Pinkham, P., Sorkin, I. & Swift, H. (2020). Bartik Instruments: What, When, Why and How. *American Economic Review*, 110(8), 2586--2624. [DOI](https://doi.org/10.1257/aer.20181047)
