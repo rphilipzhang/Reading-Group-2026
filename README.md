@@ -70,7 +70,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 5 | IV: Core Theory |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/15_iv_partI.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/16_iv_partII.pdf)|
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)|
 | 7 | RDD: Sharp, Fuzzy & Extensions |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf), [Slides 3](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)|
-| 8 | Double/Debiased Machine Learning ||
+| 8 | Double/Debiased Machine Learning |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf), [Slides 3](https://psantanna.com/DiD/06_DML.pdf), [Slides 4](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-11-DML.pdf)|
 | 9 | ML × Causal Inference ||
 | 10 | Partial Identification & Sensitivity Analysis ||
 
@@ -85,7 +85,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG |[Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), [Project APE](https://ape.socialcatalystlab.org/)|
 | 6 | AI for Data Collection & Unstructured Data |[GitHub 1](https://github.com/velikov-mihail/AI-Powered-Scholarship), [Project APE](https://ape.socialcatalystlab.org/), [GitHub](https://github.com/andybhall/vbm-replication-extension)|
 | 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety)|
-| 8 | AI for Academic Writing & Peer Review ||
+| 8 | AI for Academic Writing & Peer Review |[Project APE](https://ape.socialcatalystlab.org/), [GitHub 1](https://github.com/andybhall/vbm-replication-extension), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 9 | AI for Theoretical Model Building & Mathematical Proof ||
 | 10 | Building Your AI-Augmented Research Workflow ||
 
@@ -339,13 +339,12 @@ In either case, if you have difficulty selecting what to present in the reading 
 | Empirics | **Double/Debiased Machine Learning**: Neyman orthogonality, cross-fitting, partially linear models, DML for ATE/CATE, IV and panel settings | _TBD_ |
 | AI | **AI for Academic Writing & Peer Review**: Drafting, proofreading agents, LLM-assisted review, ethics and disclosure | _TBD_ |
 
-**Lecture Slides:**
 
-- Goldsmith-Pinkham, P. Machine Learning Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf)
-- Sant'Anna, P. Leveraging Advances in Machine Learning. [Slides](https://psantanna.com/DiD/06_DML.pdf)
 
 **Empirics References:**
 
+- Goldsmith-Pinkham, P. Machine Learning Part 1. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf) · Part 2. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf)
+- Sant'Anna, P. Leveraging Advances in Machine Learning. [Slides](https://psantanna.com/DiD/06_DML.pdf)
 - Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W. & Robins, J. (2018). Double/Debiased Machine Learning for Treatment and Structural Parameters. *Econometrics Journal*, 21(1), C1--C68. [DOI](https://doi.org/10.1111/ectj.12097)
 - Chernozhukov, V., Hansen, C., Kallus, N., Spindler, M. & Syrgkanis, V. (2024). *Applied Causal Inference Powered by ML and AI*. [Free online](https://causalml-book.org/)
 - Chernozhukov, V., Goldman, M., Semenova, V. & Taddy, M. (2021). Orthogonal Machine Learning for Demand Estimation: High-Dimensional Causal Inference in Dynamic Panels. [arXiv](https://arxiv.org/abs/1712.09988)
