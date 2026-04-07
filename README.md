@@ -48,6 +48,8 @@ Each presenter should present the following:
 2. **Implementation demo** (~15 min): Present the your own implementation of the method(s) and discuss how to cross necessary technical barriers, with the help of AI.
 3. **Applications & reflections** (~25 min): Demonstrate applications, discuss limitations, and share thoughts on how to use and iterate this method in your own research.
 
+In either case, if you have difficulty selecting what to present in the reading group, please directly contact Philip.
+
 ### Logistics
 
 - **One day before** each session, speakers must upload slides, code, and documentation to the reading group GitHub repo.
@@ -63,7 +65,7 @@ Each presenter should present the following:
 |------|-------|--------------|
 | 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
 | 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 4](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 5](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 6](https://psantanna.com/DiD/05_Covariates.pdf)|
-| 3 | Modern DID: Staggered Adoption & TWFE Problems ||
+| 3 | Modern DID: Staggered Adoption & TWFE Problems |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf), [Slides 3](https://psantanna.com/DiD/09_Twfe.pdf), [Slides 4](https://psantanna.com/DiD/11_Staggered_problems.pdf), [Slides 5](https://psantanna.com/DiD/12_CS.pdf), [Slides 6](https://psantanna.com/DiD/13_On_off.pdf)|
 | 4 | Event Studies, Synthetic Control & Synthetic DID ||
 | 5 | IV: Core Theory ||
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs ||
@@ -173,12 +175,14 @@ Each presenter should present the following:
 | Empirics | **Modern DID: Staggered Adoption & TWFE Problems**: Bacon decomposition, negative weights, Callaway & Sant'Anna (2021), Sun & Abraham (2021), de Chaisemartin & D'Haultfoeuille (2020) | _TBD_ |
 | AI | **AI-Driven Replication Studies**: End-to-end replication with AI, verification workflows, credibility and reproducibility at scale | _TBD_ |
 
-**Lecture Slides:**
+
+
+
+**Empirics References:**
 
 - Goldsmith-Pinkham, P. DiD Staggered. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf) · DiD Extensions. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf)
 - Sant'Anna, P. TWFE with Multiple Periods. [Slides](https://psantanna.com/DiD/09_Twfe.pdf) · Staggered Treatment Adoption Problems. [Slides](https://psantanna.com/DiD/11_Staggered_problems.pdf) · Reliable Estimators with Staggered Adoption. [Slides](https://psantanna.com/DiD/12_CS.pdf) · Treatments Turning On-and-Off. [Slides](https://psantanna.com/DiD/13_On_off.pdf)
 
-**Empirics References:**
 
 - Callaway, B. & Sant'Anna, P. (2021). Difference-in-Differences with Multiple Time Periods. *Journal of Econometrics*, 225(2), 200--230. [DOI](https://doi.org/10.1016/j.jeconom.2020.12.001)
 - Roth, J., Sant'Anna, P., Bilinski, A. & Poe, J. (2023). What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature. *Journal of Econometrics*, 235(2), 2218--2244. [DOI](https://doi.org/10.1016/j.jeconom.2023.03.008)
