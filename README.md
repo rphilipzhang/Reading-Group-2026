@@ -6,6 +6,7 @@
 **Participants:** PhD students, post-doctoral fellows, research assistants  
 **Lunch:** Group lunch after each session (covered by Philip)
 **Sign-up Sheet:** [Sign up here](https://github.com/rphilipzhang/Reading-Group-2026).
+**[Zoom Link](https://cuhk.zoom.us/j/91010132061?pwd=NnAJPWU6ckdFpeEPb28TZEaGGEjfVY.1), Zoom ID: 910 1013 2061, Passcode: 073575**
 
 ---
 
@@ -55,6 +56,26 @@ In either case, if you have difficulty selecting what to present in the reading 
 
 - **One day before** each session, speakers must upload slides, code, and documentation to the reading group GitHub repo.
 - Presenters are encouraged to use agentic AI tools (Claude Code, Codex, Cursor, etc.) to prepare simulations, replications, and demos to the best extent possible.
+
+
+---
+
+## Presentation Schedule
+
+Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymvDjQ8gSTv050DII3wAeE4/edit?usp=sharing) for **one empirics session** and **one AI session** (or more if needed). Each Topic 1 speaker should **select an empirical paper of his/her own choice** for the replication exercise.
+
+| Week |Date (Tentative)| Empirics Presenter | AI Presenter |
+|------|----|--------------------|--------------|
+| 1 |05.18| ||
+| 2 |05.25| ||
+| 3 |06.02| ||
+| 4 |06.07| ||
+| 5 |06.16| ||
+| 6 |06.23| ||
+| 7 |06.30| ||
+| 8 |07.07| |
+| 9 |07.14| |
+| 10|07.21| |
 
 ---
 
@@ -425,24 +446,7 @@ Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulg
 - Sant'Anna, P. claude-code-my-workflow (domain-agnostic academic workflow template). [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)
 - Nature (2026). How to Build an AI Scientist: First Peer-Reviewed Paper Spills the Secrets. [Article](https://www.nature.com/articles/d41586-026-00899-w)
 
----
 
-## Sign-Up Sheet
-
-Please sign up for **one empirics session** and **one AI session** (or more if needed). Each Topic 1 speaker should **select an empirical paper of his/her own choice** for the replication exercise.
-
-| Week | Empirics Presenter | AI Presenter |
-|------|---------------------|--------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
 
 ---
 
