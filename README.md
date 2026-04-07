@@ -66,7 +66,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
 | 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 4](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 5](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 6](https://psantanna.com/DiD/05_Covariates.pdf)|
 | 3 | Modern DID: Staggered Adoption & TWFE Problems |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf), [Slides 3](https://psantanna.com/DiD/09_Twfe.pdf), [Slides 4](https://psantanna.com/DiD/11_Staggered_problems.pdf), [Slides 5](https://psantanna.com/DiD/12_CS.pdf), [Slides 6](https://psantanna.com/DiD/13_On_off.pdf)|
-| 4 | Event Studies, Synthetic Control & Synthetic DID ||
+| 4 | Event Studies, Synthetic Control & Synthetic DID |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf), [Slides](https://psantanna.com/DiD/08_ES.pdf), [Slides](https://psantanna.com/DiD/10_Pretest.pdf)|
 | 5 | IV: Core Theory ||
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs ||
 | 7 | RDD: Sharp, Fuzzy & Extensions ||
@@ -210,12 +210,13 @@ In either case, if you have difficulty selecting what to present in the reading 
 | Empirics | **Event Studies, Synthetic Control & Synthetic DID**: Dynamic treatment effects, pre-trend testing, SC estimation, SDID | _TBD_ |
 | AI | **Autonomous Research Systems**: Project APE, Karpathy's autoresearch, AI Scientist, LLM-as-judge, quality assessment at scale | _TBD_ |
 
-**Lecture Slides:**
+
+
+**Empirics References:**
 
 - Goldsmith-Pinkham, P. Synthetic DiD. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf)
 - Sant'Anna, P. Event Studies. [Slides](https://psantanna.com/DiD/08_ES.pdf) · Pre-tests. [Slides](https://psantanna.com/DiD/10_Pretest.pdf)
 
-**Empirics References:**
 
 - Abadie, A. (2021). Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects. *Journal of Economic Literature*, 59(2), 391--425. [DOI](https://doi.org/10.1257/jel.20191450)
 - Abadie, A., Diamond, A. & Hainmueller, J. (2010). Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program. *Journal of the American Statistical Association*, 105(490), 493--505. [DOI](https://doi.org/10.1198/jasa.2009.ap08746)
