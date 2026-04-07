@@ -72,7 +72,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 7 | RDD: Sharp, Fuzzy & Extensions |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf), [Slides 3](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)|
 | 8 | Double/Debiased Machine Learning |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf), [Slides 3](https://psantanna.com/DiD/06_DML.pdf), [Slides 4](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-11-DML.pdf)|
 | 9 | ML × Causal Inference |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/25_machine_learning_3.pdf), [Slides 2](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-12-HTE.pdf)|
-| 10 | Partial Identification & Sensitivity Analysis ||
+| 10 | Partial Identification & Sensitivity Analysis |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/26_partial_identification.pdf)|
 
 ### AI for Research
 
@@ -87,7 +87,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety)|
 | 8 | AI for Academic Writing & Peer Review |[Project APE](https://ape.socialcatalystlab.org/), [GitHub 1](https://github.com/andybhall/vbm-replication-extension), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 9 | AI for Theoretical Model Building & Mathematical Proof |[Vibe Research](https://vincent.codes.finance/posts/vibe-research-paper/), [GitHub](https://github.com/fintech-research/ai-lab-investment/)|
-| 10 | Building Your AI-Augmented Research Workflow ||
+| 10 | Building Your AI-Augmented Research Workflow |[Wiki](https://velikov-mihail.github.io/ai-econ-wiki/), [Substack](https://paulgp.substack.com/p/research-in-the-time-of-ai), [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
 
 ---
 
@@ -405,12 +405,10 @@ Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulg
 | Empirics | **Partial Identification & Sensitivity Analysis**: Bounds under weaker assumptions, sensitivity of causal estimates, Rambachan & Roth (2023) | _TBD_ |
 | AI | **Building Your AI-Augmented Research Workflow**: Integrating tools into a personal research pipeline, lessons learned, group discussion on adoption | _TBD_ |
 
-**Lecture Slides:**
-
-- Goldsmith-Pinkham, P. Partial Identification. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/26_partial_identification.pdf)
 
 **Empirics References:**
 
+- Goldsmith-Pinkham, P. Partial Identification. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/26_partial_identification.pdf)
 - Molinari, F. (2020). Microeconometrics with Partial Identification. *Handbook of Econometrics*, Vol. 7A, 355--486. [DOI](https://doi.org/10.1016/bs.hoe.2020.05.002)
 - Manski, C. F. (1990). Nonparametric Bounds on Treatment Effects. *American Economic Review: P&P*, 80(2), 319--323. [JSTOR](https://www.jstor.org/stable/2006592)
 - Lee, D. S. (2009). Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects. *Review of Economic Studies*, 76(3), 1071--1102. [DOI](https://doi.org/10.1111/j.1467-937X.2009.00536.x)
@@ -463,4 +461,4 @@ Please sign up for **one empirics session** and **one AI session** (or more if n
 
 ---
 
-*Last updated: 2026-04-06*
+*Last updated: 2026-04-07*
