@@ -71,7 +71,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/17_iv_partIII.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/18_bartik_sim_iv.pdf), [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/19_judge_iv.pdf)|
 | 7 | RDD: Sharp, Fuzzy & Extensions |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/20_regression_discontinuity_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/21_regression_discontinuity_2.pdf), [Slides 3](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/22_regression_discontinuity_3.pdf)|
 | 8 | Double/Debiased Machine Learning |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/23_machine_learning_1.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf), [Slides 3](https://psantanna.com/DiD/06_DML.pdf), [Slides 4](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-11-DML.pdf)|
-| 9 | ML × Causal Inference ||
+| 9 | ML × Causal Inference |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/25_machine_learning_3.pdf), [Slides 2](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-12-HTE.pdf)|
 | 10 | Partial Identification & Sensitivity Analysis ||
 
 ### AI for Research
@@ -86,7 +86,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 6 | AI for Data Collection & Unstructured Data |[GitHub 1](https://github.com/velikov-mihail/AI-Powered-Scholarship), [Project APE](https://ape.socialcatalystlab.org/), [GitHub](https://github.com/andybhall/vbm-replication-extension)|
 | 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety)|
 | 8 | AI for Academic Writing & Peer Review |[Project APE](https://ape.socialcatalystlab.org/), [GitHub 1](https://github.com/andybhall/vbm-replication-extension), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
-| 9 | AI for Theoretical Model Building & Mathematical Proof ||
+| 9 | AI for Theoretical Model Building & Mathematical Proof |[Vibe Research](https://vincent.codes.finance/posts/vibe-research-paper/), [GitHub](https://github.com/fintech-research/ai-lab-investment/)|
 | 10 | Building Your AI-Augmented Research Workflow ||
 
 ---
@@ -371,10 +371,10 @@ In either case, if you have difficulty selecting what to present in the reading 
 
 **Lecture Slides:**
 
-- Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/25_machine_learning_3.pdf)
 
 **Empirics References:**
 
+Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/25_machine_learning_3.pdf)
 - Athey, S. & Imbens, G. W. (2019). Machine Learning Methods That Economists Should Know About. *Annual Review of Economics*, 11, 685--725. [DOI](https://doi.org/10.1146/annurev-economics-080217-053433)
 - Wager, S. & Athey, S. (2018). Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests. *Journal of the American Statistical Association*, 113(523), 1228--1242. [DOI](https://doi.org/10.1080/01621459.2017.1319839)
 - Athey, S. & Imbens, G. W. (2016). Recursive Partitioning for Heterogeneous Causal Effects. *PNAS*, 113(27), 7353--7360. [DOI](https://doi.org/10.1073/pnas.1510489113)
