@@ -19,8 +19,8 @@ This reading group has two parallel tracks, each occupying one hour per session:
 
 ### Prerequisites & Assumptions
 
-- **Applied Empirics:** Participants are expected to have a solid foundation in econometrics and causal inference (e.g., OLS, potential outcomes, basic DID, IV, RDD concepts). The reading group focuses on **applying** these methods in empirical research settings, navigating practical challenges such as assumption validation, robustness checks, and replication, rather than re-teaching the underlying theory.
-- **AI for Research:** Participants are assumed to be familiar with the basics of AI and LLMs (e.g., what a large language model is, how to use ChatGPT-style interfaces for simple tasks). The reading group focuses on **modern agentic AI**, multi-agent workflows, autonomous research systems, AI coding agents, and integration of AI into end-to-end research pipelines, which goes well beyond basic LLM usage.
+- **Applied Empirics:** Participants are expected to have a solid foundation in econometrics and causal inference (e.g., OLS, potential outcomes, basic DID, IV, RDD concepts). The reading group focuses on **applying** these methods *correctly* in empirical research settings, navigating practical challenges such as assumption validation, robustness checks, and replication, rather than re-teaching the underlying theory.
+- **AI for Research:** Participants are assumed to be familiar with the basics of AI and LLMs (e.g., what a large language model is, how to use ChatGPT-style interfaces for simple tasks). The reading group focuses on **modern agentic AI**, multi-agent workflows, autonomous research systems, AI coding agents, and integration of AI into end-to-end research pipelines, which goes well beyond basic LLM usage. We will build AI systems together to empower our research.
 
 ### Track Descriptions
 
@@ -34,24 +34,24 @@ This reading group has two parallel tracks, each occupying one hour per session:
 
 ### Track 1: Applied Empirics (1 hour)
 
-Each presenter should:
+Each presenter should present the following:
 
-1. **Introduce the method** (~15 min): Explain the core identification strategy (e.g., IV, DID), key assumptions, and intuition.
+1. **Method introduction** (~15 min): Explain the core identification strategy (e.g., IV, DID), key assumptions, and intuition.
 2. **Simulation exercise** (~20 min) Run simulations (constructed with AI assistance is encouraged) to demonstrate why certain assumptions are critical and which violations are more or less consequential.
 3. **Paper replication** (~25 min): **Each speaker should select an empirical paper of his/her own choice** that uses this identification strategy; discuss how the key assumptions apply (or fail) in that setting; demonstrate a stepwise replication of the main results (use the paper's open-source data if available; otherwise simulate data based on the paper's setting, using AI).
 
 ### Track 2: AI for Research (1 hour)
 
-Each presenter should:
+Each presenter should present the following:
 
 1. **Technical background** (~20 min): Provide the necessary theoretical and technical context for the week's technique (e.g., how multi-agent systems work, how RAG differs from wiki-based knowledge management).
-2. **Implementation demo** (~20 min): Present the presenter's own implementation of the method.
-3. **Applications & reflection** (~20 min): Demonstrate applications, discuss limitations, and share thoughts on how to use this method in the presenter's own research.
+2. **Implementation demo** (~15 min): Present the your own implementation of the method(s) and discuss how to cross necessary technical barriers, with the help of AI.
+3. **Applications & reflections** (~25 min): Demonstrate applications, discuss limitations, and share thoughts on how to use and iterate this method in your own research.
 
 ### Logistics
 
 - **One day before** each session, speakers must upload slides, code, and documentation to the reading group GitHub repo.
-- Presenters are encouraged to use AI tools (Claude Code, Cursor, etc.) to prepare simulations, replications, and demos.
+- Presenters are encouraged to use agentic AI tools (Claude Code, Codex, Cursor, etc.) to prepare simulations, replications, and demos to the best extent possible.
 
 ---
 
@@ -59,33 +59,33 @@ Each presenter should:
 
 ### Applied Empirics
 
-| Week | Topic |
-|------|-------|
-| 1 | Propensity Scores, Matching & Reweighting |
-| 2 | Classic DID (2×2) |
-| 3 | Modern DID: Staggered Adoption & TWFE Problems |
-| 4 | Event Studies, Synthetic Control & Synthetic DID |
-| 5 | IV: Core Theory |
-| 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs |
-| 7 | RDD: Sharp, Fuzzy & Extensions |
-| 8 | Double/Debiased Machine Learning |
-| 9 | ML × Causal Inference |
-| 10 | Partial Identification & Sensitivity Analysis |
+| Week | Topic |Key References|
+|------|-------|--------------|
+| 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
+| 2 | Classic DID (2×2) ||
+| 3 | Modern DID: Staggered Adoption & TWFE Problems ||
+| 4 | Event Studies, Synthetic Control & Synthetic DID ||
+| 5 | IV: Core Theory ||
+| 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs ||
+| 7 | RDD: Sharp, Fuzzy & Extensions ||
+| 8 | Double/Debiased Machine Learning ||
+| 9 | ML × Causal Inference ||
+| 10 | Partial Identification & Sensitivity Analysis ||
 
 ### AI for Research
 
-| Week | Topic |
-|------|-------|
-| 1 | AI Coding Agents & Multi-Agent Workflows for Research |
-| 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |
-| 3 | AI-Driven Replication Studies |
-| 4 | Autonomous Research Systems |
-| 5 | Knowledge Management with LLMs: Wiki vs. RAG |
-| 6 | AI for Data Collection & Unstructured Data |
-| 7 | LLM Social Simulations for Economic & Social Research |
-| 8 | AI for Academic Writing & Peer Review |
-| 9 | AI for Theoretical Model Building & Mathematical Proof |
-| 10 | Building Your AI-Augmented Research Workflow |
+| Week | Topic |Key References|
+|------|-------|--------------|
+| 1 | AI Coding Agents & Multi-Agent Workflows for Research |[Substack](https://paulgp.substack.com/p/getting-started-with-claude-code),[GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
+| 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation ||
+| 3 | AI-Driven Replication Studies ||
+| 4 | Autonomous Research Systems ||
+| 5 | Knowledge Management with LLMs: Wiki vs. RAG ||
+| 6 | AI for Data Collection & Unstructured Data ||
+| 7 | LLM Social Simulations for Economic & Social Research ||
+| 8 | AI for Academic Writing & Peer Review ||
+| 9 | AI for Theoretical Model Building & Mathematical Proof ||
+| 10 | Building Your AI-Augmented Research Workflow ||
 
 ---
 
@@ -96,11 +96,12 @@ Each presenter should:
 | Empirics | **Propensity Scores, Matching & Reweighting**: IPW, doubly robust estimation, overlap diagnostics | _TBD_ |
 | AI | **AI Coding Agents & Multi-Agent Workflows for Research**: Claude Code, Cursor, orchestrator patterns, quality gates, adversarial critic-fixer, CLAUDE.md/MEMORY.md | _TBD_ |
 
-**Lecture Slides:**
+
+**Empirics References:**
+
 
 - Goldsmith-Pinkham, P. Propensity Scores. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)
 
-**Empirics References:**
 
 - Imbens, G. W. & Xu, Y. (2024). LaLonde (1986) after Nearly Four Decades: Lessons Learned. [NBER Working Paper](https://www.nber.org/papers/w32029)
 - Rosenbaum, P. R. & Rubin, D. B. (1983). The Central Role of the Propensity Score in Observational Studies for Causal Effects. *Biometrika*, 70(1), 41--55. [DOI](https://doi.org/10.1093/biomet/70.1.41)
