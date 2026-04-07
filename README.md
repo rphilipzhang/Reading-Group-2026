@@ -62,7 +62,7 @@ Each presenter should present the following:
 | Week | Topic |Key References|
 |------|-------|--------------|
 | 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
-| 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 3](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 4](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 5](https://psantanna.com/DiD/05_Covariates.pdf)|
+| 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 4](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 5](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 6](https://psantanna.com/DiD/05_Covariates.pdf)|
 | 3 | Modern DID: Staggered Adoption & TWFE Problems ||
 | 4 | Event Studies, Synthetic Control & Synthetic DID ||
 | 5 | IV: Core Theory ||
