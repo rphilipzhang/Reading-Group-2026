@@ -62,7 +62,7 @@ Each presenter should present the following:
 | Week | Topic |Key References|
 |------|-------|--------------|
 | 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
-| 2 | Classic DID (2×2) ||
+| 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 3](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 4](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 5](https://psantanna.com/DiD/05_Covariates.pdf)|
 | 3 | Modern DID: Staggered Adoption & TWFE Problems ||
 | 4 | Event Studies, Synthetic Control & Synthetic DID ||
 | 5 | IV: Core Theory ||
@@ -141,12 +141,14 @@ Each presenter should present the following:
 | Empirics | **Classic DID (2×2)**: Parallel trends, inference with clustering, covariate adjustment, functional form sensitivity | _TBD_ |
 | AI | **AI-Powered Statistical Analysis: StatsClaw & Code Generation**: Natural language to production-ready statistical code, comparison of tools | _TBD_ |
 
-**Lecture Slides:**
 
-- Goldsmith-Pinkham, P. Difference-in-Differences. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf) · DiD Foundations. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf)
-- Sant'Anna, P. Classical 2×2 DiD Setup. [Slides](https://psantanna.com/DiD/02_two_by_two.pdf) · Clustering. [Slides](https://psantanna.com/DiD/03_Clustering.pdf) · Parallel Trends and Functional Form. [Slides](https://psantanna.com/DiD/04_Functional_form.pdf) · Covariates. [Slides](https://psantanna.com/DiD/05_Covariates.pdf)
+
 
 **Empirics References:**
+
+- Goldsmith-Pinkham, P. Difference-in-Differences. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf) · DiD Foundations. [Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf)
+
+- Sant'Anna, P. Classical 2×2 DiD Setup. [Slides](https://psantanna.com/DiD/02_two_by_two.pdf) · Clustering. [Slides](https://psantanna.com/DiD/03_Clustering.pdf) · Parallel Trends and Functional Form. [Slides](https://psantanna.com/DiD/04_Functional_form.pdf) · Covariates. [Slides](https://psantanna.com/DiD/05_Covariates.pdf)
 
 - Bertrand, M., Duflo, E. & Mullainathan, S. (2004). How Much Should We Trust Difference-In-Differences Estimates? *Quarterly Journal of Economics*, 119(1), 249--275. [DOI](https://doi.org/10.1162/003355304772839588)
 - Card, D. & Krueger, A. B. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania. *American Economic Review*, 84(4), 772--793. [JSTOR](https://www.jstor.org/stable/2118030)
