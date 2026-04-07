@@ -5,6 +5,7 @@
 **Duration:** 10 weeks  
 **Participants:** PhD students, post-doctoral fellows, research assistants  
 **Lunch:** Group lunch after each session (covered by Philip)
+**Sign-up Sheet:** [Sign up here](https://github.com/rphilipzhang/Reading-Group-2026).
 
 ---
 
