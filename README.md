@@ -113,7 +113,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 1
+### Week 1 (May 18)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -158,7 +158,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 2
+### Week 2 (May 25)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -190,7 +190,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 3
+### Week 3 (June 2)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -224,7 +224,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 4
+### Week 4 (June 9)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -256,7 +256,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 5
+### Week 5 (June 16)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -284,7 +284,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 - Novy-Marx, R. & Velikov, M. (2025). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5-37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
 ---
 
-### Week 6
+### Week 6 (June 23)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -314,7 +314,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 7
+### Week 7 (June 30)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -354,7 +354,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 8
+### Week 8 (July 7)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -384,7 +384,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 
 ---
 
-### Week 9
+### Week 9 (July 14)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
@@ -420,7 +420,7 @@ Goldsmith-Pinkham, P. Machine Learning Part 3. [Slides](https://github.com/paulg
 
 ---
 
-### Week 10
+### Week 10 (July 21)
 
 | Track | Topic | Presenter |
 |-------|-------|-----------|
