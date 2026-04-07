@@ -76,8 +76,8 @@ Each presenter should present the following:
 
 | Week | Topic |Key References|
 |------|-------|--------------|
-| 1 | AI Coding Agents & Multi-Agent Workflows for Research |[Substack](https://paulgp.substack.com/p/getting-started-with-claude-code),[GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
-| 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation ||
+| 1 | AI Coding Agents & Multi-Agent Workflows for Research |[Substack](https://paulgp.substack.com/p/getting-started-with-claude-code), [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
+| 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |[GitHub](https://github.com/statsclaw)|
 | 3 | AI-Driven Replication Studies ||
 | 4 | Autonomous Research Systems ||
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG ||
@@ -161,7 +161,7 @@ Each presenter should present the following:
 **AI References:**
 
 - StatsClaw. AI-powered statistical code generation (R, Python, C++, Julia, Stata). [Website](https://statsclaw.ai/)
-- Novy-Marx, R. & Velikov, M. (2024). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5--37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
+- Novy-Marx, R. & Velikov, M. (2025). AI-Powered (Finance) Scholarship. *Journal of Economic Literature*, 64(1), 5--37. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5060022) · [NBER](https://www.nber.org/papers/w33363) · [Code](https://github.com/velikov-mihail/AI-Powered-Scholarship)
 - Velikov, M. AI in Business & Economic Research Wiki (129 sources, 10 categories). [Website](https://velikov-mihail.github.io/ai-econ-wiki/)
 
 ---
