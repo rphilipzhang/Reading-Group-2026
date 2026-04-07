@@ -66,7 +66,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 1 | Propensity Scores, Matching & Reweighting |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/03_propensity_scores.pdf)|
 | 2 | Classic DID (2×2) |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13_dind.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13a_dind_foundations.pdf), [Slides 3](https://psantanna.com/DiD/02_two_by_two.pdf), [Slides 4](https://psantanna.com/DiD/03_Clustering.pdf), [Slides 5](https://psantanna.com/DiD/04_Functional_form.pdf), [Slides 6](https://psantanna.com/DiD/05_Covariates.pdf)|
 | 3 | Modern DID: Staggered Adoption & TWFE Problems |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13b_dind_staggered.pdf), [Slides 2](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/13c_dind_extensions.pdf), [Slides 3](https://psantanna.com/DiD/09_Twfe.pdf), [Slides 4](https://psantanna.com/DiD/11_Staggered_problems.pdf), [Slides 5](https://psantanna.com/DiD/12_CS.pdf), [Slides 6](https://psantanna.com/DiD/13_On_off.pdf)|
-| 4 | Event Studies, Synthetic Control & Synthetic DID |[Slides](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf), [Slides](https://psantanna.com/DiD/08_ES.pdf), [Slides](https://psantanna.com/DiD/10_Pretest.pdf)|
+| 4 | Event Studies, Synthetic Control & Synthetic DID |[Slides 1](https://github.com/paulgp/applied-methods-phd/blob/main/lectures/14_synthetic_dind.pdf), [Slides 2](https://psantanna.com/DiD/08_ES.pdf), [Slides 3](https://psantanna.com/DiD/10_Pretest.pdf)|
 | 5 | IV: Core Theory ||
 | 6 | IV Extensions: Bartik, Shift-Share & Examiner Designs ||
 | 7 | RDD: Sharp, Fuzzy & Extensions ||
@@ -81,7 +81,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 | 1 | AI Coding Agents & Multi-Agent Workflows for Research |[Substack](https://paulgp.substack.com/p/getting-started-with-claude-code), [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
 | 2 | AI-Powered Statistical Analysis: StatsClaw & Code Generation |[GitHub](https://github.com/statsclaw)|
 | 3 | AI-Driven Replication Studies |[GitHub](https://github.com/andybhall/vbm-replication-extension), [arXiv](https://arxiv.org/abs/2602.16733)|
-| 4 | Autonomous Research Systems ||
+| 4 | Autonomous Research Systems |[GitHub 1](https://github.com/karpathy/autoresearch), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG ||
 | 6 | AI for Data Collection & Unstructured Data ||
 | 7 | LLM Social Simulations for Economic & Social Research ||
@@ -227,7 +227,7 @@ In either case, if you have difficulty selecting what to present in the reading 
 
 **AI References:**
 
-- Project APE (Autonomous Policy Evaluation). AI-generated economics research at scale; 2,248 ideas, 943 papers, TrueSkill tournament. Social Catalyst Lab, U. Zurich. [Website](https://ape.socialcatalystlab.org/) · [Papers](https://github.com/SocialCatalystLab/ape-papers)
+- Project APE (Autonomous Policy Evaluation). AI-generated economics research at scale, TrueSkill tournament. Social Catalyst Lab, U. Zurich. [Website](https://ape.socialcatalystlab.org/) · [Papers](https://github.com/SocialCatalystLab/ape-papers)
 - Karpathy, A. autoresearch: autonomous ML experimentation loop (modify → train → evaluate → iterate). [GitHub](https://github.com/karpathy/autoresearch)
 - Lu, C. et al. (Sakana AI, 2024). The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery. [Website](https://sakana.ai/ai-scientist/) · [GitHub](https://github.com/SakanaAI/AI-Scientist)
 - Sakana AI (2025). The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search. [arXiv](https://arxiv.org/abs/2504.08066)
