@@ -108,7 +108,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 | 4 | Autonomous Research Systems |[GitHub 1](https://github.com/karpathy/autoresearch), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 5 | Knowledge Management with LLMs: Wiki vs. RAG |[Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), [Project APE](https://ape.socialcatalystlab.org/)|
 | 6 | AI for Data Collection & Unstructured Data |[GitHub 1](https://github.com/velikov-mihail/AI-Powered-Scholarship), [Project APE](https://ape.socialcatalystlab.org/), [GitHub](https://github.com/andybhall/vbm-replication-extension)|
-| 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety)|
+| 7 | LLM Social Simulations for Economic & Social Research |[GitHub 1](https://github.com/camel-ai/oasis), [GitHub 2](https://github.com/tsinghua-fib-lab/AgentSociety), [GitHub 3](https://github.com/RUC-GSAI/YuLan-OneSim)|
 | 8 | AI for Academic Writing & Peer Review |[Project APE](https://ape.socialcatalystlab.org/), [GitHub 1](https://github.com/andybhall/vbm-replication-extension), [GitHub 2](https://github.com/sakanaai/ai-scientist-v2)|
 | 9 | AI for Theoretical Model Building & Mathematical Proof |[Vibe Research](https://vincent.codes.finance/posts/vibe-research-paper/), [GitHub](https://github.com/fintech-research/ai-lab-investment/)|
 | 10 | Building Your AI-Augmented Research Workflow |[Wiki](https://velikov-mihail.github.io/ai-econ-wiki/), [Substack](https://paulgp.substack.com/p/research-in-the-time-of-ai), [GitHub](https://github.com/pedrohcgs/claude-code-my-workflow)|
@@ -353,6 +353,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 - Piao, J. et al. (2025). AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society. [arXiv](https://arxiv.org/abs/2502.08691) · [GitHub](https://github.com/tsinghua-fib-lab/AgentSociety)
 - Vezhnevets, A. S. et al. (Google DeepMind, 2023). Generative Agent-Based Modeling with Actions Grounded in Physical, Social, or Digital Space using Concordia. [arXiv](https://arxiv.org/abs/2312.03664) · [GitHub](https://github.com/google-deepmind/concordia)
 - Bail, C. A. (2024). Can Generative AI Improve Social Science? *PNAS*. [DOI](https://doi.org/10.1073/pnas.2314021121)
+- Wang, L., Li, Y., Wu, J., Gao, H., Bo, X., Chen, X. & Wen, J.-R. (2025). LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation. [arXiv](https://arxiv.org/abs/2604.01520)
 
 ---
 
