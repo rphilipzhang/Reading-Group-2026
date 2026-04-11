@@ -384,6 +384,7 @@ Please [sign up](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymv
 - Stanford HAI. How Much Research Is Being Written by Large Language Models? [Article](https://hai.stanford.edu/news/how-much-research-being-written-large-language-models)
 - Nature Portfolio. AI Policy for Authors (LLM disclosure requirements). [Policy](https://www.nature.com/nature-portfolio/editorial-policies/ai)
 - Large Language Models for Automated Scholarly Paper Review: A Survey (2025). [arXiv](https://arxiv.org/abs/2501.10326)
+- Song, Y., Song, Y., Pfister, T. & Yoon, J. (2026). PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing. [arXiv](https://arxiv.org/abs/2604.05018) · [Website](https://yiwen-song.github.io/paper_orchestra/)
 
 ---
 
