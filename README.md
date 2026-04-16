@@ -5,7 +5,7 @@
 **Duration:** 10 weeks  
 **Participants:** PhD students, post-doctoral fellows, research assistants  
 
-**Sign-up Sheet:** [Sign up here](https://github.com/rphilipzhang/Reading-Group-2026).
+**Sign-up Sheet:** [Sign up here](https://docs.google.com/spreadsheets/d/1av1Zpzm4U140xW02cjVyymvDjQ8gSTv050DII3wAeE4/edit?usp=sharing).
 
 **[Zoom Link](https://cuhk.zoom.us/j/91010132061?pwd=NnAJPWU6ckdFpeEPb28TZEaGGEjfVY.1), Zoom ID: 910 1013 2061, Passcode: 073575**
 
