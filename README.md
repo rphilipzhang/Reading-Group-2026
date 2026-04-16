@@ -1,10 +1,9 @@
 # Summer Reading Group 2026: AI for Research × Applied Empirics
 
-**Organizer:** [Philip Zhang](https://rphilipzhang.github.io/rphilipzhang/)  
+**Organizer:** [Prof. Philip Zhang](https://rphilipzhang.github.io/rphilipzhang/)  
 **Schedule (tentative):** Tuesdays, 9:30 am - 11:30 am  
 **Duration:** 10 weeks  
 **Participants:** PhD students, post-doctoral fellows, research assistants  
-**Lunch:** Group lunch after each session
 
 **Sign-up Sheet:** [Sign up here](https://github.com/rphilipzhang/Reading-Group-2026).
 
